@@ -1,0 +1,73 @@
+toggleMenu:
+    other: Comutator
+
+darkMode:
+    other: Întunecat
+
+list:
+    page:
+        one: "{{ .Count }} pagină"
+        other: "{{ .Count }} pagini"
+
+    section:
+        other: Sectiune
+
+    subsection:
+        one: Subsectiune
+        other: Subsectiuni
+
+article:
+    back:
+        other: Înapoi
+
+    tableOfContents:
+        other: Cuprins
+
+    relatedContent:
+        other: Related content
+
+    lastUpdatedOn:
+        other: Actualizat în
+
+    readingTime:
+        one: "{{ .Count }} minut timp de citit"
+        other: "{{ .Count }} minute timp de citit"
+
+notFound:
+    title:
+        other: Not Found
+
+    subtitle:
+        other: Pagină inexistentă
+
+widget:
+    archives:
+        title:
+            other: Arhiva
+
+        more:
+            other: Mai mult
+
+    tagCloud:
+        title:
+            other: Tags
+    categoriesCloud:
+        title:
+            other: Categorii
+
+search:
+    title:
+        other: Caută
+
+    placeholder:
+        other: Scrie ceva...
+
+    resultTitle:
+        other: "#PAGES_COUNT pagini (#TIME_SECONDS secunde)"
+
+footer:
+    builtWith:
+        other: Construit cu {{ .Generator }}
+
+    designedBy:
+        other: Theme {{ .Theme }} designed by {{ .DesignedBy }}

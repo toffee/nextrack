@@ -1,0 +1,33 @@
+mainSections = ["posts"]
+rssFullContent = true
+favicon = "/favicon.png"
+
+[footer]
+since = 2020
+customText = ""
+
+[dateFormat]
+published = "02 Jan 2006"
+lastUpdated = "02 Jan 2006 15:04"
+
+[sidebar]
+subtitle = "Peripețiile familiei"
+
+[sidebar.avatar]
+enabled = true
+local = true
+src = "img/avatar.png"
+
+## Widgets
+#[[widgets.homepage]]
+#type = "search"
+
+[colorScheme]
+toggle = true
+default = "auto"
+
+[imageProcessing.cover]
+enabled = true
+
+[imageProcessing.content]
+enabled = true
