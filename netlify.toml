@@ -3,12 +3,12 @@
     command = "npm run build"
 
 [build.environment]
-    DART_SASS_VERSION = "1.72.0"
-    HUGO_VERSION = "0.124.0"
+    DART_SASS_VERSION = "1.83.1"
+    HUGO_VERSION = "0.140.2"
     HUGO_ENV = "production"
     HUGO_ENABLEGITINFO = "true"
-    NODE_VERSION = "18.19.1"
-    NPM_VERSION = "10.2.4"
+    NODE_VERSION = "22.12.0"
+    NPM_VERSION = "10.9.0"
 
 [[headers]]
     for = "/*"
@@ -85,7 +85,7 @@
 	# Relative path to source directory in case you use Hugo's "--s" option
 	# srcdir = ""
 
-[[plugins]]
-    package = "@netlify/plugin-lighthouse"
+# [[plugins]]
+    # package = "@netlify/plugin-lighthouse"
     # [plugins.inputs]
     # output_path = "reports/lighthouse.html"

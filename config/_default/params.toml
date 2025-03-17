@@ -2,32 +2,21 @@
     separator = "-"
     description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
     enableDarkMode = true
+    enableLanguageSelectionStorage = false
     modes = ["light", "dark"]
     canonifyAssetsURLs = false
     endorse = true
     footerBelowFold = false
     loading = "lazy"
     breakpoint = "md"
+    [main.internalLinks]
+        validate = true
+        pretty = false
     [main.externalLinks]
         cue = false
         tab = false
     [main.build]
         transpiler = "libsass"
-
-[modules]
-    core = ["bootstrap", "flexsearch", "fontawesome"]
-    optional = ["leaflet", "katex", "lottie"]
-    excludeSCSS = ["bootstrap"]
-    disableTemplate = ["katex"]
-    [modules.flexsearch]
-        frontmatter = false
-        filter = ""
-    [modules.fontawesome]
-        inline = true
-        debug = true
-        skipMissing = false
-    [modules.katex]
-        state = "defer"
 
 [debugging]
     showJS = false
@@ -146,16 +135,16 @@
     # linkedIn = ""
     github = "https://github.com/gethinode/hinode"
     section = "blog"
-    [author]
+    [schema.author]
         name = "Mark Dumay"
         # twitter = "https://twitter.com/markdumay"
         linkedin = "https://www.linkedin.com/in/markdumay/"
         github = "https://github.com/markdumay"
-    [logo]
+    [schema.logo]
         url = "img/logo512x512.png"
         width = 512
         height = 512
-    [image]
+    [schema.image]
         url = "img/logo1280x640.png"
         width = 1280
         height = 640
