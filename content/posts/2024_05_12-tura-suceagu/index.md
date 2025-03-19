@@ -4,7 +4,7 @@ description: Într-o sambată am fost cu fam. Zeng cu bicicletele prin Suceagu �
 date: 2024-05-12
 image: 2024_05_12-tura-suceagu.jpg
 comments: true
-author: alina
+authors: [daniel]
 ---
 
 # Heading 1

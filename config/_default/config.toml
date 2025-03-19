@@ -3,3 +3,8 @@ languageCode = "ro-RO"
 title = "fam. Tofan"
 
 defaultContentLanguage = "ro"
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+  category = "categories"

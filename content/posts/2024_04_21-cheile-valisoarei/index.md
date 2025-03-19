@@ -4,7 +4,7 @@ description: Drumeție cu fam. Balan în Cheile Vălișoarei
 date: 2024-04-21
 image: 2024_04_21-cheile-valisoarei.jpg
 comments: true
-author: daniel
+authors: [daniel]
 ---
 
 Despre tură în Cheile Vălișoarei
