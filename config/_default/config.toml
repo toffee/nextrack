@@ -8,3 +8,7 @@ defaultContentLanguage = "ro"
   author = "authors"
   tag = "tags"
   category = "categories"
+  
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
