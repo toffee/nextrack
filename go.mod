@@ -1,11 +1,9 @@
 module github.com/toffee/nextrack
 
-go 1.21.6
-
-toolchain go1.21.9
+go 1.21.13
 
 require (
-	github.com/CaiJimmy/hugo-theme-stack/v3 v3.30.0 // indirect
-	github.com/martinschneider/hugo-gpx-shortcode v0.0.0-20230105222248-94d46fb1f000 // indirect
+	github.com/CaiJimmy/hugo-theme-stack/v3 v3.31.0 // indirect
 	github.com/mfg92/hugo-shortcode-gallery v1.3.0 // indirect
+	github.com/toffee/hugo-gpx-shortcode v0.0.0-20250928211937-b6bce98652b3 // indirect
 )
