@@ -45,11 +45,13 @@ Pe o creasta, in mijlocul salbaticiei, ne-am intalnit cu trei caini (destul de m
 Apoi ne-am intalnit cu stapanul, un tanar blajin si la fata si miscari. 
 Alta data, fara sa ne vada ca noi il vedem, un vacar isi batea cu ura vacile care nu intelegeau sa mearga unde el gandea ca trebuie sa mearga. Simultan, niste caini mici, latrau violent catre alte vaci.
 
-Ne-am cazat, ca in pandemie, fara contact fizic cu gazda la [Helikon guesthouse](https://maps.app.goo.gl/bS3UJZfDqmy5S5i38). Seara am ajuns tarziu dar nici dimineata nu am vizitat castelul [Kemeny](https://www.marosvecs.com/)
+Ne-am cazat, ca in pandemie, fara contact fizic cu gazda la [Helikon guesthouse](https://maps.app.goo.gl/bS3UJZfDqmy5S5i38). Seara am ajuns tarziu dar nici dimineata nu am vizitat castelul [Kemeny](https://www.marosvecs.com/).
 
 {{< gallery match="gallery/day02/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 # Ziua 3
+
+Test
 
 {{< gallery match="gallery/day03/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
