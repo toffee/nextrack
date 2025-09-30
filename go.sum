@@ -2,5 +2,5 @@ github.com/CaiJimmy/hugo-theme-stack/v3 v3.31.0 h1:fDdsTsOVVKBzQb9+hIxTErDqmiHCz
 github.com/CaiJimmy/hugo-theme-stack/v3 v3.31.0/go.mod h1:IPmCXiIxlFSLFYS0tOmYP6ySLviyeNVSabyvSuaxD+I=
 github.com/mfg92/hugo-shortcode-gallery v1.3.0 h1:7wiUUu7adN3JbcshZfZ+Q0ZLDilPoGkquoor0ZcdJVU=
 github.com/mfg92/hugo-shortcode-gallery v1.3.0/go.mod h1:SEdbeBGSMX2lP+4nCqqy9AyTWWktUMWXYnR3r1l01Rw=
-github.com/toffee/hugo-gpx-shortcode v0.0.0-20250929190049-bd88e72f5062 h1:M+j/f1X0uu27eEH8VaSA6QnhOTG1XlUQVXmW7ZHloXU=
-github.com/toffee/hugo-gpx-shortcode v0.0.0-20250929190049-bd88e72f5062/go.mod h1:upcAnndEhQ4eMCGX8Yv0dMvwyv4wRtsbTQ9WxZdVPH8=
+github.com/toffee/hugo-gpx-shortcode v1.0.3 h1:y9N8DK+fR+fEwqePPoBq5DiGlXB754ueNIBx0Oaxokk=
+github.com/toffee/hugo-gpx-shortcode v1.0.3/go.mod h1:upcAnndEhQ4eMCGX8Yv0dMvwyv4wRtsbTQ9WxZdVPH8=
