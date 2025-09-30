@@ -18,7 +18,7 @@ Dupa aprox 1 ora, ne intoarcem la service, dar bicicleta neatinsa. Cred ca seful
 
 Dupa ce se termina blocurile din Bistrita si incepem pe drumul de macadam ne intalnim cu o masina de teren care opreste si soferul intra in vorba cu noi si printre altele mentioneaza ca e "parinte de drum".
 Dupa ce a plecat si am inceput sa pedelaz mi-am dat seama ca am uitat sa salut evlavios: "Sarumana parinte!"
-Drumul pana in Jeica e destul de plictisior, nimic remarcabil.Ne-am rehidratat la [Magazinul Mixt](https://maps.app.goo.gl/hzVPb6cQ6jN4qULk6) din Monariu. Totusi am avut parte de o deviere de la traseu in Domnesti unde se lucra la podul peste Sieu, asadar am trecut raul pe un pod ingust, mobil.
+Drumul pana in Jeica e destul de plictisior, nimic remarcabil. Ne-am rehidratat la [Magazinul Mixt](https://maps.app.goo.gl/hzVPb6cQ6jN4qULk6) din Monariu. Totusi am avut parte de o deviere de la traseu in Domnesti unde se lucra la podul peste Sieu, asadar am trecut raul pe un pod ingust, mobil.
 In Jeica, ne-am cazat la doamna Ilona, dar camere erau intr-o cladire a primariei (sat infratit cu Lajoskomárom din Ungaria) unde seara am ascultat acorduri mortuare care se auzeau dintr-o camera vecina unde se defasurau repetitiile.
 
 {{< gallery match="gallery/day01/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
@@ -51,14 +51,43 @@ Ne-am cazat, ca in pandemie, fara contact fizic cu gazda la [Helikon guesthouse]
 
 # Ziua 3
 
-Test
+Din Brancovenesti am traversat Muresul si am trecut prin Ideciu se Sus pe asfalt iar apoi peste deal am ajuns in Deleni dupa o urcare destul de abrupta. La finalul urcarii, pe creasta, sub copaci facem o poza de grup.
+Iarasi peste dealuri, destul de lung, ajungem in Adrian si apoi mergem  paralel cu drumul judetean pe langa raul Gurghiu.
+Dupa ce traversam Gurghiu pe un pod mobil ajungem in localitatea Gurghiu unde stiam de pe google ca exista un supermarket.
+La [Supermarket Darina](https://maps.app.goo.gl/A81HLYbvwLGGva257) luam pranzul si ne hidratam cu Powerade.
+
+Traseul nu merge pe drumul judetean, ci te duce la stanga spre Casva si apoi urca pana la Mirigioaia pentru ca apoi sa te coboare in Toaca. 
+Mirigioaia un sat rasfirat de-a lungul unui drum care serpuieste - ne-am oprit si am stat la umbra langa o borna cu miriapod galben. O masina s-a oprit, ne-au oferit rosii. Nu am luat, dar apa imbuteliata am primit.
+In Toaca decidem sa ne abatem pana la [Insula Argentina](https://maps.app.goo.gl/p1DovCVFPGm6nbFf8) unde bem bere la umbra pe terasa si primim apa pe gratis din nou.
+
+Inca o urcare, inca o coborare si ajungem la drumul aproape plat care merge paralel cu drumul judetean si in amonte cu Gurghiu. 
+Multe sate, multe case - pare o zona de vacanta - si incet dar sigur ajungem la destinatia noatsra in Bredetelu: familia Balacianu.
 
 {{< gallery match="gallery/day03/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
 # Ziua 4
 
+Pornim de dimineata stiind ca e ziua "cea mai grea" prin lungime si diferenta de nivel. 
+Ne incurajam ca mare parte din diferenta de nivel o terminam in prima parte a zilei, pentru ca profilul arata doar o singura urcare de aprox 700-800hm.
+
+Facem poza de grup in curtea familie Balacianu si plecam. Nu mult mergem pe traseu pe langa Gurghiu ca facem la dreapta de drumul forestier incepand urcarea.
+Aproape de creaste ne odihnim intr-o poiana la umbra unui copac. Continuam pe creasta, nu trecem pe la stana cu wifi, dar ne oprim la o intersectie de trasee montane sa ne odihnim si sa povestim. 
+Dupa traseul de creasta, urmeaza coborarea spre Campul Cetatii prin padure. Coborare foarte abrupta si tehnica pe anumite portiuni. Intamplator sau nu, coborarea se termina langa un cimitir.
+E deja amiaz, numai bine sa ne oprim la [pensiunea Vándor](https://maps.app.goo.gl/y66rgfqoiBHAXV8PA), conform cu recomandarile, sa luam pranzul in gradina, langa parau. Nu am ratat strudelul cu mac, varianta locala.
+
+De la Campul Cetatii pana la Sovata drumul e in mare parte forestier, partea dinspre Sovata chiar cu indicatoare rutiere pe margine. 
+Ne-am intalnit cu un grup de masini 4x4 care distrau niste turisti si care au imprastiat apa de prin baltile de pe drum. La coborarea spre Sovata, unii dintre noi (care nu au tinut gura inchisa) au simtit gustul noroiului.
+Prin Sovata, traseul urca pana la [Turnul Belvedere](https://maps.app.goo.gl/v3MtisXdDYeTmGGQA) si apoi te coboara la Lacul Ursu pe o alee amenajata pentru plimbare/drumetie, cu trepte, deloc potrivita pentru doua roti.
+Nu am ajuns cu mult inainte de ora 18 la strand, asadar nu am mai incecat sa intram sa facem baie.
+Dar ne-am odihnit in parcul din centrul statiunii unde am mancat cate un langos si de la magazinul de langa am cumparat niste creme pentru doamne.
+
+Era deja tarziu, ne-am grabit catre Praid. Urcare prin statiune pe asflat, apoi un drum neasfaltat cu o urcare imposibila si drum printre tufe urmata de o coborare tehnica.
+Zona prin care am mai fost cu copiii cand aveau 2 ani. De data asta nimeni nu a mai avut chef sa mearga la [14 cruci](https://maps.app.goo.gl/Br9dXoCT54aARGxu7).
+Coborare pana la asfalt, apoi printr-o zona industriala (Hochland) si o cariera de pitra si intrarea in padure. Drumul continua la liziera padurii paralel cu drumul national. In unele zone se auzea sunetul masinilor.
+Am facut o poza unde am iesit de pe Via Transilvanica - ca sa stim unde sa revenim! - si am continuat spre Praid unde ne astepta de cateva minute Alina cu masina ca sa ne intoarcem la Cluj-Napoca.
+
 {{< gallery match="gallery/day04/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
+Track-urile din cele 4 zile:
+
 {{< gpx "track-day01.gpx" "track-day02.gpx" "track-day03.gpx" "track-day04.gpx">}}
-
-
