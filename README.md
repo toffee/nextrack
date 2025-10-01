@@ -7,6 +7,11 @@ Modules used by this hugo project:
  
 ## How to work
 
+### On Windows laptop
+ The project from github (https://github.com/toffee/nextrack/) is checked out into C:\Users\alina\GitHub
+ Always get the latest modification from github. While you have selected *nextrack* as _Current repository_ and *theme-stack* as _Current branch_ click on _Fetch origin_
+
+### On Jupiter
  Everything is done on jupiter, so connect with Putty to jupiter (192.168.120.5) with your user and password.
  
  The project from github (https://github.com/toffee/nextrack/) is checked out into /home/alina/git/toffee/nexttrack/. 
