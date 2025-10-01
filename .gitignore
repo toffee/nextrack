@@ -3,6 +3,6 @@
 /prebuild
 resources/
 node_modules/
-
+hugo_stats.json
 .DS_store
 .hugo_build.lock
