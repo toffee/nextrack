@@ -9,13 +9,23 @@ Modules used by this hugo project:
 
 ### On Windows laptop
  The project from github (https://github.com/toffee/nextrack/) is checked out into C:\Users\alina\GitHub
- Always get the latest modification from github. While you have selected *nextrack* as _Current repository_ and *theme-stack* as _Current branch_ click on _Fetch origin_
+ 
+ Always get the latest modification from github. While you have selected _nextrack_ as **Current repository** and _theme-stack_ as **Current branch** click on **Fetch origin**
+ 
  ![git-fetch](docs/git-fetch.png)
+ 
  If there are motification upstream then pull
+ 
  ![git-pull](docs/git-pull.png)
+ 
  Now it's safe to start working. After you finish partially or completly your modification commit and push to github.
- For commit you can select what files are part of this commit. Enter a message describing your changes and click _Commit_.
+ For commit you can select what files are part of this commit. Enter a message describing your changes and click **Commit**.
+ 
  ![git-commit](docs/git-commit.png)
+ 
+ Then you can push your cahnegs to github by pushing **Push origin**
+ 
+ ![git-push](docs/git-push.png)
 
 
 ### On Jupiter
