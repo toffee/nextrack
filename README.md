@@ -10,6 +10,13 @@ Modules used by this hugo project:
 ### On Windows laptop
  The project from github (https://github.com/toffee/nextrack/) is checked out into C:\Users\alina\GitHub
  Always get the latest modification from github. While you have selected *nextrack* as _Current repository_ and *theme-stack* as _Current branch_ click on _Fetch origin_
+ ![git-fetch](docs/git-fetch.png)
+ If there are motification upstream then pull
+ ![git-pull](docs/git-pull.png)
+ Now it's safe to start working. After you finish partially or completly your modification commit and push to github.
+ For commit you can select what files are part of this commit. Enter a message describing your changes and click _Commit_.
+ ![git-commit](docs/git-commit.png)
+
 
 ### On Jupiter
  Everything is done on jupiter, so connect with Putty to jupiter (192.168.120.5) with your user and password.
