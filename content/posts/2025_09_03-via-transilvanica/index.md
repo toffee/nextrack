@@ -9,7 +9,7 @@ authors: [daniel]
 
 # Ziua 1
 
-Am plecat cu trenul din Cluj-Napoca, dimineata, inainte de ora 8. La iesirea din gara Bistrita incepe prima problema tehnica - portbagajul loveste roata bicicleteui lui Victor.
+Am plecat cu trenul din Cluj-Napoca, dimineata, inainte de ora 8. La iesirea din gara Bistrita incepe prima problema tehnica - portbagajul loveste roata bicicletei lui Victor.
 Mergem conform planului in centru orasului pentru a cumpara carnetele si pentru ca Zeze sa-si bea cafeaua. 
 Intre timp ne dam seama ca tuturor ne este foame (desi unii au avut micul dejun) si avem brunch la [Roots Bistro & Caffe](https://www.rootsbistro.ro/). 
 Sun la un service de biciclete care nu raspounde si apoi hotaram sa mergem la un alt service. 
