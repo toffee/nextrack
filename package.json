@@ -80,5 +80,8 @@
   },
   "optionalDependencies": {
     "fsevents": "*"
+  },
+  "allowScripts": {
+    "hugo-extended@0.161.1": true
   }
 }
