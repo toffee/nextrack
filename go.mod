@@ -1,6 +1,6 @@
 module github.com/gethinode/template
 
-go 1.20
+go 1.21.13
 
 require (
 	github.com/FortAwesome/Font-Awesome v0.0.0-20260715180930-14c65a3747d0 // indirect
@@ -21,5 +21,6 @@ require (
 	github.com/gethinode/mod-utils/v6 v6.8.5 // indirect
 	github.com/mfg92/hugo-shortcode-gallery v1.4.0 // indirect
 	github.com/nextapps-de/flexsearch v0.0.0-20260529083235-f7ed963096a0 // indirect
+	github.com/toffee/hugo-gpx-shortcode v1.0.3 // indirect
 	github.com/twbs/bootstrap v5.3.8+incompatible // indirect
 )
