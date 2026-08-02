@@ -21,4 +21,13 @@ content_blocks:
         icon: fas chevron-right
     orientation: horizontal
     justify: center
+  - _bookshop_name: articles
+    heading:
+      title: Latest Updates       # Replaces root-level 'title'
+    input:
+      section: posts              # Replaces root-level 'section'
+      max: 3                    # Replaces 'count' (Hinode uses max)
+    more:
+      title: View all posts       # Replaces root-level 'button'
+      url: /posts/
 ---
