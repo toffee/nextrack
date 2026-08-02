@@ -2,14 +2,15 @@
     separator = "-"
     description = "Hinode is a clean documentation and blog theme for your Hugo site based on Bootstrap 5."
     enableLanguageSelectionStorage = false
-    [colorMode]
-      enableDarkMode = true
-      modes = ["light", "dark"]
     canonifyAssetsURLs = false
     endorse = true
     footerBelowFold = false
     loading = "lazy"
     breakpoint = "md"
+    [main.colorMode]
+        enabled = true
+        modes = ["light", "dark"]
+        toggle = false
     [main.internalLinks]
         validate = true
         pretty = false
@@ -17,7 +18,7 @@
         cue = false
         tab = false
     [main.build]
-        transpiler = "libsass"
+        transpiler = "dartsass"
 
 [debugging]
     showJS = false
@@ -29,25 +30,19 @@
     release = "https://github.com/gethinode/hinode/releases/tag/"
     checkVersion = false
 
-[home]
-    # sections = ["posts"]
-    fullCover = false
-    centerHeadline = false
-    style = ""
-
 [navigation]
     anchor = true
     logo = "/img/logo_icon.svg"
     color = "body"
     fixed = true
     offset = "5.5rem"
-    [search]
-      enabled = true
-      modal = false
     breadcrumb = true
     toc = true
     sidebar = true
     size = "md"
+    [navigation.search]
+        enabled = true
+        modal = false
 
 [messages]
     placement = "bottom-right"
@@ -89,24 +84,6 @@
     weight = 50
     clipboard = true
 
-# toml-docs-start sections
-# [sections]
-#     [sections.posts]
-#         title = "Posts"
-#         sort = "date"
-#         reverse = true
-#         nested = true
-#         cols = 3
-#         color = ""
-#         padding = "0"
-#         header = "full"
-#         footer = "none"
-#         orientation = "stacked"
-#         style = "border-0 card-zoom"
-#         homepage = 3
-#         separator = true
-# toml-docs-end sections
-
 [favicon]
     logo = "img/favicon.png"
     sizes = [16, 32, 48]
@@ -127,7 +104,6 @@
     # themeFontPath = "https://fonts.googleapis.com/css2?family=Inter:wght@200;300;600&display=swap" # external path
     themeFontPath = "/fonts" # local path
     fontSizeBase = "1rem"
-    purge = false
 
 [schema]
     type = "Organization"
