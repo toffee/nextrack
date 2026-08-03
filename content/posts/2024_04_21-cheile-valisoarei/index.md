@@ -19,5 +19,3 @@ O limitare a utilizării textului fals în web design este că acest text nu est
 Textul fals, de asemenea, nu oferă o imagine de ansamblu realistă de tonuri de gri tipografic, mai ales în cazul textului justificate. Distanța textului fals este încă puțin mai mare decât cu un text real, ceea ce va prezenta aspect mai întunecat și mai puțin lizibil decât textul fals cu care designerul a făcut studiile sale. Acest lucru poate denatura prezentarea finală a imprimării.
 
 {{< gpx "track.gpx" >}}
-
-

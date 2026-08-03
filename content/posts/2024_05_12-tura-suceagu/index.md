@@ -24,13 +24,14 @@ Text pe a treia linie dupa o linie goala
 
 {{< gallery match="gallery/*" sortOrder="desc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="none" embedPreview=true loadJQuery=true >}}
 
-# Display images 
+# Display images
 
 ![Image 1](gallery/20240512-080059.jpg)
 ![Image 2](gallery/20240512-092515.jpg)
 ![Image 3](gallery/20240512-103357.jpg)
 
 # Gallery
+
 Gallery with two rows (must be in section gallery - not works in post section)
 
 ![Image 1](gallery/20240512-080059.jpg) ![Image 2](gallery/20240512-092515.jpg)
