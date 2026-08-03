@@ -3,6 +3,9 @@ title: Cheile Vălișoarei
 description: Drumeție cu fam. Balan în Cheile Vălișoarei
 date: 2024-04-21
 image: 2024_04_21-cheile-valisoarei.jpg
+thumbnail:
+  url: "./2024_04_21-cheile-valisoarei.jpg"
+  alt: "Scenic view of Cheile Valisoarei"
 comments: true
 authors: [daniel]
 ---

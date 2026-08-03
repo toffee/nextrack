@@ -3,6 +3,7 @@ title: Via Transilvanica 2025
 description: 4 zile cu bicicleta pe Via Transilvanica
 date: 2025-09-03
 image: 2025_09_03-via-transilvanica.jpg
+thumbnail: ./2025_09_03-via-transilvanica.jpg
 comments: true
 authors: [daniel]
 ---
@@ -21,7 +22,7 @@ Dupa ce se indeparteaza iar noi incepem sa pedelam, imi dau seama ca am uitat sa
 Drumul pana in Jeica e destul de plictisior, nimic remarcabil. Ne e rehidratam la [Magazinul Mixt](https://maps.app.goo.gl/hzVPb6cQ6jN4qULk6) din Monariu. Totusi am avut parte de o deviere de la traseu in Domnesti unde se lucra la podul peste Sieu, asadar am trecut raul pe un pod ingust, mobil.
 In Jeica, ne-am cazat la doamna Ilona. Camerele erau intr-o cladire a primariei (sat infratit cu Lajoskomárom din Ungaria) unde, seara, am ascultat acorduri mortuare dintr-o camera vecina unde se defasurau repetitiile pentru cantarile la o inmormantare. :)
 
-{{< gallery match="gallery/day01/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
+{{< gallery match="gallery/day01/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true loadJQuery=true >}}
 
 # Ziua 2
 

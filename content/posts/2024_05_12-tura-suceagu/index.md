@@ -3,6 +3,7 @@ title: Tură Suceagu
 description: Într-o sambată am fost cu fam. Zeng cu bicicletele prin Suceagu și Baciu.
 date: 2024-05-12
 image: 2024_05_12-tura-suceagu.jpg
+thumbnail: ./2024_05_12-tura-suceagu.jpg
 comments: true
 authors: [daniel]
 ---

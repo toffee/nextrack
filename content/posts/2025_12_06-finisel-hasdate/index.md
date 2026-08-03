@@ -3,6 +3,7 @@ title: Tura de Mos Nicolae
 description: O bucla Savadisla, Finisel, Plopi, Hasdate
 date: 2025-12-06
 image: featured.jpg
+thumbnail: ./featured.jpg
 comments: true
 authors: [daniel]
 ---
