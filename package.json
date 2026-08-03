@@ -82,6 +82,6 @@
     "fsevents": "*"
   },
   "allowScripts": {
-    "hugo-extended@0.161.1": true
+    "hugo-extended@0.164.0": true
   }
 }
