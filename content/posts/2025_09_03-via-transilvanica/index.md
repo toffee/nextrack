@@ -8,7 +8,7 @@ comments: true
 authors: [daniel]
 ---
 
-# Ziua 1
+## Ziua 1
 
 Am plecat cu trenul din Cluj-Napoca, dimineata, inainte de ora 8. La iesirea din gara Bistrita incepe prima problema tehnica - portbagajul loveste roata bicicletei lui Victor.
 Mergem conform planului in centrul orasului pentru a cumpara carnetele pentru stampile Via Transilvanica si pentru ca Zeze sa-si bea cafeaua.
@@ -24,7 +24,7 @@ In Jeica, ne-am cazat la doamna Ilona. Camerele erau intr-o cladire a primariei 
 
 {{< gallery match="gallery/day01/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true loadJQuery=true >}}
 
-# Ziua 2
+## Ziua 2
 
 Dupa ce fac alergarea de dimineata prin Jeica si luam micul dejun, incepem a doua zi de pedalat pe [Via Transilvanica](https://www.viatransilvanica.com/).
 Trecem pe langa biserica si magazinul din Jeica, apoi incepem urcarea pe dealuri. La un moment dat,in noroiul intarit pe care il strabateam, pe langa urme de caine vedem si urme clare de laba de urs...  
@@ -50,7 +50,7 @@ Ne cazam, ca in pandemie, fara contact fizic cu gazda la [Helikon guesthouse](ht
 
 {{< gallery match="gallery/day02/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
-# Ziua 3
+## Ziua 3
 
 Din Brancovenesti am traversat Muresul si am trecut prin Ideciu se Sus pe asfalt iar apoi peste deal am ajuns in Deleni dupa o urcare destul de abrupta. La finalul urcarii, pe creasta, sub copaci facem o poza de grup.
 Iarasi peste dealuri, destul de lung, ajungem in Adrian si apoi mergem  paralel cu drumul judetean pe langa raul Gurghiu.
@@ -66,7 +66,7 @@ Multe sate, multe case - pare o zona de vacanta - si incet dar sigur ajungem la 
 
 {{< gallery match="gallery/day03/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}
 
-# Ziua 4
+## Ziua 4
 
 Pornim de dimineata stiind ca e ziua "cea mai grea" prin lungime si diferenta de nivel.
 Ne incurajam ca mare parte din diferenta de nivel o terminam in prima parte a zilei, pentru ca profilul arata doar o singura urcare de aprox 700-800hm.
