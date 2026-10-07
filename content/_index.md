@@ -26,6 +26,9 @@ content_blocks:
       title: Latest Updates       # Replaces root-level 'title'
     input:
       section: posts              # Replaces root-level 'section'
+      nested: true
+      sort: date
+      reverse: true
     limit: 3                    # Replaces 'count' (Hinode uses max)
     more:
       title: View all posts       # Replaces root-level 'button'
