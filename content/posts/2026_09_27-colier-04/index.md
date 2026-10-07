@@ -11,7 +11,7 @@ tags: ["agate", "galben", "coliere", "hobby", "creativity", "pietresemipretioase
 
 Acesta e un colier sinestezic și suprarealist. Culorile, compoziția și starea lui se află în prima mea carte, Sinestezii... Am realizat asta abia după 1 zi după ce l-am făcut, având aceleași senzatii ca atunci cand am scris textul acela suprarealist, acum  foarte mulți ani.
 
-Fragment: 
+Fragment:
 
 "Ploua candid și simplu iar eu întâlneam arbuști înfloriți galben, mirosind a lemn crud.
 
