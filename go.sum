@@ -94,6 +94,8 @@ github.com/gethinode/mod-blocks/v2 v2.12.1 h1:LSvj1curkB9mNdPcajuy53uaDSJS6JEbb+
 github.com/gethinode/mod-blocks/v2 v2.12.1/go.mod h1:HP7wDMA/PfPIJdwabZtt3d2VHjY9aMGnn/8NzgrYTuQ=
 github.com/gethinode/mod-blocks/v2 v2.12.2 h1:bVb1PfWC5nDdynPNk7gr9ufS5rCDyHmsHW4p01C2n3U=
 github.com/gethinode/mod-blocks/v2 v2.12.2/go.mod h1:/tW/zbWxWOcVpBxO3ATj87J2gyCKgDyXy3LC/o9sdI4=
+github.com/gethinode/mod-blocks/v2 v2.13.2 h1:+aZ2uGTG6VWPQq3NTs0MC8IYGZ6s5b4gR1CSSvpCtE8=
+github.com/gethinode/mod-blocks/v2 v2.13.2/go.mod h1:/tW/zbWxWOcVpBxO3ATj87J2gyCKgDyXy3LC/o9sdI4=
 github.com/gethinode/mod-bootstrap v1.5.0 h1:vpcbnNA315kClDeWviL/4yWKt1k1oaxI7Z8HxcoHnpQ=
 github.com/gethinode/mod-bootstrap v1.5.0/go.mod h1:CxrYCFzKtBMz3YWG5i/d5jHKCgvUo60NFcCmz2mxCjQ=
 github.com/gethinode/mod-bootstrap v1.5.1 h1:jy8FbReI/7CAcxtlD1i1x3QKYJatHhpoiXwPm4ULaXo=
