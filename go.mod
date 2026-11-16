@@ -6,8 +6,8 @@ require (
 	github.com/FortAwesome/Font-Awesome v0.0.0-20260715180930-14c65a3747d0 // indirect
 	github.com/airbnb/lottie-web v5.13.0+incompatible // indirect
 	github.com/cloudcannon/bookshop/hugo/v3 v3.20.0 // indirect
-	github.com/gethinode/hinode/v3 v3.52.3 // indirect
-	github.com/gethinode/mod-blocks/v2 v2.15.2 // indirect
+	github.com/gethinode/hinode/v3 v3.53.3 // indirect
+	github.com/gethinode/mod-blocks/v2 v2.16.0 // indirect
 	github.com/gethinode/mod-bootstrap v1.5.1 // indirect
 	github.com/gethinode/mod-csp v1.0.17 // indirect
 	github.com/gethinode/mod-flexsearch/v5 v5.4.2 // indirect
@@ -22,5 +22,5 @@ require (
 	github.com/mfg92/hugo-shortcode-gallery v1.4.0 // indirect
 	github.com/nextapps-de/flexsearch v0.0.0-20260529083235-f7ed963096a0 // indirect
 	github.com/toffee/hugo-gpx-shortcode v1.0.3 // indirect
-	github.com/twbs/bootstrap v5.3.8+incompatible // indirect
+	github.com/twbs/bootstrap v5.3.9+incompatible // indirect
 )

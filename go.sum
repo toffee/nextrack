@@ -78,6 +78,8 @@ github.com/gethinode/hinode/v3 v3.52.1 h1:CMmlY16xtZIXaaAkzn4VawOjX8YDBvW7RzrCAi
 github.com/gethinode/hinode/v3 v3.52.1/go.mod h1:6j2tKUMxHHx0W+zDDRlLW+7xgKCZ+CvpioCJZctSW/I=
 github.com/gethinode/hinode/v3 v3.52.3 h1:bT6DCY5t09OVMfW+tp5U7zPQrMA1ixWFH2r9koz/Pm4=
 github.com/gethinode/hinode/v3 v3.52.3/go.mod h1:6j2tKUMxHHx0W+zDDRlLW+7xgKCZ+CvpioCJZctSW/I=
+github.com/gethinode/hinode/v3 v3.53.3 h1:+qGKaGLLxsjTvv9isVaqcnOvl3Q972cDKD3+Tuyqaw4=
+github.com/gethinode/hinode/v3 v3.53.3/go.mod h1:sOt2GI4j6PATVw3urMA9Z1QQYFz8ai+1fArtihKmPhA=
 github.com/gethinode/mod-blocks/v2 v2.3.5 h1:9NCaMM35Px11iiN6ZXaDKYkj2VMUMeslcyV3nZon/Ng=
 github.com/gethinode/mod-blocks/v2 v2.3.5/go.mod h1:jasWmqif6QIEWQXckSIOPxB5fGZcJZENfh728ZUkIng=
 github.com/gethinode/mod-blocks/v2 v2.3.6 h1:xWvoWBfMXKTjsFuVh3sGZK80uQF1gl6gGt8w4GsZHiE=
@@ -112,6 +114,8 @@ github.com/gethinode/mod-blocks/v2 v2.15.1 h1:+cUiAvRjColAzftCOnTj5A4VnRZ5YWNeMu
 github.com/gethinode/mod-blocks/v2 v2.15.1/go.mod h1:/tW/zbWxWOcVpBxO3ATj87J2gyCKgDyXy3LC/o9sdI4=
 github.com/gethinode/mod-blocks/v2 v2.15.2 h1:+2X2pji5JlqKWXNWwQghB1eOQZWITNoq/jZQQxP0SZ0=
 github.com/gethinode/mod-blocks/v2 v2.15.2/go.mod h1:/XJFsSBM87ROZnfVGUFKgyjM5bfTXXQ7k8Rhx0GKuhU=
+github.com/gethinode/mod-blocks/v2 v2.16.0 h1:UjF8PwIHj417fyA6Dixd+IY3MN1unwbmPmOIqOGOFJ4=
+github.com/gethinode/mod-blocks/v2 v2.16.0/go.mod h1:6nGOY6eL0GqQwDNlQL9jOW/kgtsKn4rViEIbtcu1+Q0=
 github.com/gethinode/mod-bootstrap v1.5.0 h1:vpcbnNA315kClDeWviL/4yWKt1k1oaxI7Z8HxcoHnpQ=
 github.com/gethinode/mod-bootstrap v1.5.0/go.mod h1:CxrYCFzKtBMz3YWG5i/d5jHKCgvUo60NFcCmz2mxCjQ=
 github.com/gethinode/mod-bootstrap v1.5.1 h1:jy8FbReI/7CAcxtlD1i1x3QKYJatHhpoiXwPm4ULaXo=
@@ -222,3 +226,5 @@ github.com/toffee/hugo-gpx-shortcode v1.0.3 h1:y9N8DK+fR+fEwqePPoBq5DiGlXB754ueN
 github.com/toffee/hugo-gpx-shortcode v1.0.3/go.mod h1:upcAnndEhQ4eMCGX8Yv0dMvwyv4wRtsbTQ9WxZdVPH8=
 github.com/twbs/bootstrap v5.3.8+incompatible h1:eK1fsXP7R/FWFt+sSNmmvUH9usPocf240nWVw7Dh02o=
 github.com/twbs/bootstrap v5.3.8+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
+github.com/twbs/bootstrap v5.3.9+incompatible h1:POTO16RUeCCSft8198pwj2CRO2SnXLNG6GgHT7DgNyI=
+github.com/twbs/bootstrap v5.3.9+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=
